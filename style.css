@@ -1,0 +1,45 @@
+ body {
+    background: url(img/ghost_nebula-wallpaper-1366x768.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(127, 450,218, .9);
+} 
+
+
+.keys {
+    display: flex;
+    flex: 1;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .key {
+  /*  border: .4rem solid black; */ 
+    border-radius: .5rem; 
+    margin: 2rem;
+    font-size: 2.5rem;
+    padding: 1rem .5rem;
+    transition: all .07s ease;
+    width: 10rem;
+    text-align: center;
+    color: white;
+    background: rgba(0,0,0,0.4);
+    text-shadow: 0 0 .5rem black;
+
+  }
+
+
+  .key_link {
+    text-decoration: none;
+      color: rgba(128, 210, 125, .8);
+      font-family: 'Courier New', Courier, monospace;
+      
+  }
+
+  #common1 {
+      
+      font-size: 2.5rem;
+      background: transparent;
+      border: none;
+  }
