@@ -32,12 +32,12 @@
 
   .key_link {
     text-decoration: none;
-      color: rgba(128, 210, 125, .8);
-      font-family: 'Courier New', Courier, monospace;
-      
+    color: rgba(128, 210, 125, .8);
+    font-family: 'Courier New', Courier, monospace;
+
   }
 
-  #common1 {
+  .common-css {
       
       font-size: 2.5rem;
       background: transparent;
